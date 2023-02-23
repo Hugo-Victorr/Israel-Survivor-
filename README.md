@@ -1,12 +1,27 @@
 # Israel-Survivor
 Jogo de sobrevivência estilo "Zombie Shooter"
 ---
-Tela inicial
+*Tela inicial*
+
+Na tela inicial é possivel Iniciar um novo jogo, visualizar o Rank de pontuação e sair do jogo.
+
+Para iniciar um novo jogo, é necessário inserir um nome de jogador e em seguida clicar no botão "Iniciar".
+
 ![tela inicial](https://user-images.githubusercontent.com/105120915/220819204-e3819342-6679-4c3c-a51a-aa88d19d66fc.png)
 
 ---
 
 Jogo
+
+O objetivo do jogo é sobreviver aos ataques dos zumbis e fazer o maior numero de pontos antes que a saúde do jogador acabe.
+
+Na parte superior da tela, temos a quantidade de flechas(munição) que o jogador possui, a quantidade de pontos que o jogador ja fez e a barra que mede a saúde do jogador.
+
+Para fazer pontos, é necessario matar os zumbis atirando flechas neles. Cdaa zumbi atingido vale 1 ponto.
+
+É possivel movimentar o jogador utilizando as teclas "W", "A", "S", "D".
+
+Para atirar, deve-se utilizar a tecla "Barra de espaço".
 
 ![jogo](https://user-images.githubusercontent.com/105120915/220819282-a05f7d57-33cb-4dc5-8eba-8620f6e414f2.png)
 
