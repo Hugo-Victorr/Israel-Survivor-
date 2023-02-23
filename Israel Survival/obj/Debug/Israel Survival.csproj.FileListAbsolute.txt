@@ -1,0 +1,66 @@
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.AssemblyReference.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.Form1.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.Properties.Resources.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.GenerateResource.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.CoreCompileInputs.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe.config
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\bin\Debug\Israel Survival.pdb
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel Survival.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Israel Survival\Israel Survival\obj\Debug\Israel Survival.pdb
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe.config
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\bin\Debug\Israel Survival.pdb
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.AssemblyReference.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.Properties.Resources.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.GenerateResource.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.CoreCompileInputs.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.exe
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.pdb
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FormJogo.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FormMenu.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221119T004506Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FrmRank.resources
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe.config
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\bin\Debug\Israel Survival.pdb
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.AssemblyReference.cache
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FormJogo.resources
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FormMenu.resources
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FrmRank.resources
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.Properties.Resources.resources
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.GenerateResource.cache
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.CoreCompileInputs.cache
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel Survival.exe
+C:\Users\hugok\Downloads\Israel Survival (2)\Israel Survival\Israel Survival\obj\Debug\Israel Survival.pdb
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe.config
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\bin\Debug\Israel Survival.exe
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\bin\Debug\Israel Survival.pdb
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.AssemblyReference.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FormJogo.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FormMenu.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.FrmRank.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel_Survival.Properties.Resources.resources
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.GenerateResource.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.csproj.CoreCompileInputs.cache
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.exe
+C:\Users\Kyoshi\Desktop\Israel Survival-20221120T192501Z-001\Israel Survival\Israel Survival\obj\Debug\Israel Survival.pdb
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\bin\Debug\Israel Survival.exe.config
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\bin\Debug\Israel Survival.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\bin\Debug\Israel Survival.pdb
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.csproj.AssemblyReference.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel_Survival.FormJogo.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel_Survival.FormMenu.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel_Survival.FrmRank.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel_Survival.Properties.Resources.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.csproj.GenerateResource.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.csproj.CoreCompileInputs.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.csproj.CopyComplete
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\MeusProjetos\Israel-Survivor-main\Israel-Survivor-main\Israel Survival\obj\Debug\Israel Survival.pdb

@@ -1,1 +1,2 @@
-# Israel-Survivor-Game
+# Israel-Survivor
+Jogo de sobrevivência estilo "Zombie Shooter"
