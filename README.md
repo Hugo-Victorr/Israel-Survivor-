@@ -29,11 +29,21 @@ Para atirar, deve-se utilizar a tecla "Barra de espaço".
 
 Tela final
 
+Na tela final temos 3 opções:
+
+* Reiniciar o jogo com o mesmo nome de jogador;
+
+* Visualizar o Ranking de pontuação;
+
+* Fechar o jogo;
+
 ![gameover](https://user-images.githubusercontent.com/105120915/220819326-6b8216d3-7ddc-417c-916d-4f1d631b7575.png)
 
 ---
 
 Ranking
+
+O ranking exibe de forma decrescente a pontuação dos jogadores e seus respectivos nomes. A aplicação busca os registros no banco de dados e mostra de forma organizada as pontuações.
 
 ![ranking](https://user-images.githubusercontent.com/105120915/220819354-88394a11-675a-40f4-a3fd-88f8250c55f7.png)
 
